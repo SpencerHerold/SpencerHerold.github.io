@@ -1,0 +1,20 @@
+p {
+    text-indent: 20px;
+}
+.raleway{
+    font-family: 'Raleway', sans-serif;
+}
+.green
+{
+    background-color: #32CD32;
+}
+#map
+{
+    width: 600px;
+    margin: auto;
+}
+#entrance
+{
+    width: 600px;
+    margin: auto;
+}
